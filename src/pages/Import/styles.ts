@@ -54,3 +54,7 @@ export const Footer = styled.section`
     }
   }
 `;
+
+export const ErrorContainer = styled.div`
+  color: tomato;
+`;
